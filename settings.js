@@ -2,14 +2,14 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 
-global.botname = "❤️ Valentine Queen 👑" 
+global.botname = "❤️ 𝙿𝚛𝚒𝚗𝚌𝚎𝚜𝚜 𝙰𝙼𝙰𝚂𝙷𝙰 👑" 
 global.botLanguage = "English" // 𝗗𝗲𝗳𝗮𝘂𝗹𝘁 || 𝗘𝗻𝗴𝗹𝗶𝘀𝗵 || 𝗛𝗶𝗻𝗱𝗶 || 𝗔𝗿𝗮𝗯𝗶𝗰 \\
 global.author = "Mihiruk"  
-global.packname = "Valentine Queen Anya"  
+global.packname = " Queen A𝚖𝚊𝚜𝚑𝚊"  
 global.myweb = "https://github.com/PikaBotz" // You can put any link 
-global.waterMark = "×͜× KING OF VALENTINE MIHIRUK" // Your own watermark 
-global.headerText = "valentine Anya queen by Mihiruk" // text for header of menu         
-global.DocumentTitle = "💌VALENTINE✨MIHIRUK💌" 
+global.waterMark = "×͜× KING OFMIHIRUK" // Your own watermark 
+global.headerText = "𝙰𝙼𝙰𝚂𝙷𝙰 queen by Mihiruk" // text for header of menu         
+global.DocumentTitle = "💌𝙻𝙾𝚅𝙴 𝙿𝚛𝚒𝚗𝚌𝚎𝚜𝚜💌" 
 
 
 global.ownername = "Mihiruk Dilshan"   // Owner name //        
